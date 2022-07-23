@@ -35,8 +35,11 @@ body {
     border-radius : 5px;
     color: #ffffff;
     border: none;
+    transition: 0.3s;
 }
-
+#generate-btn:hover {
+    background: #059669;
+}
 .line-breaker {
     border:1px solid #4B5563;
     margin : 30px 0px;
